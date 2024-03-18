@@ -44,6 +44,9 @@ SSO IMAGE
 ![image](https://github.com/Raksha-coder/01_oktaAuth/assets/72040957/8fe9cd3c-89c9-4cfc-a7dc-a977026d1a1e)
 
 
+![image](https://github.com/Raksha-coder/01_oktaAuth/assets/72040957/8f6be2c3-8869-4c22-ad9f-e7741b1cd5a5)
+
+
 
 
 
