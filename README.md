@@ -49,7 +49,25 @@ SSO IMAGE
 
 
 
+# packages for okta
 
+- okta.sdk
+- microsoft.aspNetCore.Authentication.openIdConnect
+
+
+# sign up on okta developer
+
+
+
+# imp links
+
+https://developer.okta.com/docs/guides/sign-into-web-app-redirect/asp-net-core-3/main/
+https://developer.okta.com/blog/2019/04/10/build-rest-api-with-aspnetcore
+https://developer.okta.com/blog/2019/10/21/illustrated-guide-to-oauth-and-oidc
+https://developer.okta.com/docs/guides/sign-into-web-app-redirect/asp-net-core-3/main/
+ 
+Need to check
+https://developer.okta.com/blog/2019/04/10/build-rest-api-with-aspnetcore
 
 
 
