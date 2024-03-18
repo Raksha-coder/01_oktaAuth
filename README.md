@@ -12,13 +12,13 @@
 
 
 secure your frontend
--You can use Okta to allow your users to sign in with a username/password or with their social accounts, 
+- You can use Okta to allow your users to sign in with a username/password or with their social accounts, 
 such as Google or Facebook using pre-built sign-in components from Okta. After the user has signed in, 
 you can retrieve their user profile to customize the UI based on their role and apply your authorization
 policies.
 
 secure your api's
--You can use Okta to secure your APIs and application backends so that only authorized users and applications 
+- You can use Okta to secure your APIs and application backends so that only authorized users and applications 
 can call them. Define scopes, claims, and configure policies to determine who can have access to your API  
 resources.
 
@@ -37,6 +37,11 @@ every sign in or configure policies to only enforce MFA based on location or net
 sign-in or redirect to any third party app
 - Use Okta to allow users to sign in to the various internal and third-party applications using their existing
 enterprise credentials or through Active Directory (AD) or LDAP servers.
+
+
+
+SSO IMAGE
+![image](https://github.com/Raksha-coder/01_oktaAuth/assets/72040957/8fe9cd3c-89c9-4cfc-a7dc-a977026d1a1e)
 
 
 
